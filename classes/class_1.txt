@@ -1,0 +1,11 @@
+Beverages
+Attributes:
+1. Color (string)
+2. isEmpty (boolean)
+3. Price (float)
+4. Size (string)
+Methods:
+1. ChangeColor (Changes the color of the drink. Different drinks are different colors)
+2. Refill (if true, this will refill the glass and change the boolean to false)
+3. PriceDiscount (decrease beverage price by $1.00 during happy hour)
+4. OrderSmall (Customer orders a small drink instead of the standard regular size. Decreases size to small.)
