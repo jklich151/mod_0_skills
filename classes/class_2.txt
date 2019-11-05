@@ -1,10 +1,11 @@
-Menu
+Menu Items
 Attributes:
-1. numberOfMenus - (integer)
-2. areClean- (boolean)
-3. outOfStock - (string)
+1. Price - (float)
+2. Ingredients- (string)
+3. outOfStock - (boolean)
 4. nameOfItem - (string)
-1. MakeMoreMenus - (increases the number of menus by 5)
-2. Clean - (if false, sends menu to the back to be cleaned and changes boolean to true)
+
+1. IncreasePrice - (increases the price)
+2. ListIngredients- (lists the ingredients of the item)
 3. decreaseItem- (removes and item from the menu when ingredients run out)
-4. Appetizers - (lists the appetizers)
+4. AddItem - (Adds a name when a new dish is added)
