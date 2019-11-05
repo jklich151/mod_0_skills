@@ -1,0 +1,9 @@
+Vodka Cranberry
+1. Color -  dark red
+2. isEmpty - true
+3. Price - 6.50
+4. Size - double
+1. ChangeColor - (add more vodka to change color to light red)
+2. Refill - (increase amount of drink to change boolean to false)
+3. PriceDiscount - (decrease price to 5.50 during happy hour)
+4. OrderSmall - (make the next one a single)
