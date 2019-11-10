@@ -1,10 +1,10 @@
 Spaghetti and Meatballs
-1. Price - 14.50
-2. Ingredients - spaghetti, red sauce, meatballs, cheese.
+1. price - 14.50
+2. ingredients - [spaghetti, red sauce, meatballs, cheese.]
 3. outOfStock - false
-4. CalculateCalories- 550
+4. calories- 550
 
-1. IncreasePrice - (increase price from 14.50 to 16.50)
-2. Ingredients - (update if ingredient needs to change based on current inventory)
-3. ReOrder -  (if true, reorders the needed ingredients)
-4. AddCalories - (adds the calorie count to the menu)
+1. increasePrice - (increase price from 14.50 to 16.50)
+2. listIngredients - (update if ingredient needs to change based on current inventory)
+3. removeItem -  (if true, removes the item from the menu.)
+4. calculateCalories - (shows the calorie count for this item on the menu)

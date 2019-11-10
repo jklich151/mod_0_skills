@@ -1,11 +1,11 @@
-Menu Items
+Menu Item
 Attributes:
-1. Price - (float)
-2. Ingredients- (string)
+1. price - (float)
+2. ingredients- (array)
 3. outOfStock - (boolean)
-4. nameOfItem - (string)
+4. calories - (integer)
 
-1. IncreasePrice - (increases the price)
-2. ListIngredients- (lists the ingredients of the item)
-3. decreaseItem- (removes and item from the menu when ingredients run out)
-4. AddItem - (Adds a name when a new dish is added)
+1. increasePrice - (increases the price)
+2. listIngredients- (lists the ingredients of the item)
+3. removeItem- (removes an item from the menu when ingredients run out)
+4. calculateCalories - (adjust calories according to ingredients)
